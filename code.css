@@ -352,7 +352,7 @@ h3.post-title.entry-title{margin:0;margin-top:15px;padding:20px;background:-webk
 .footer h2{margin-bottom:15px;border-bottom:2px solid #2d283b;color:#fff;text-align:right;padding-bottom:5px}
 .footer h2:after{content:"";height:2px;background:-webkit-linear-gradient(45deg,#d24949,#9e44c9);background:-o-linear-gradient(45deg,#d24949,#9e44c9);background:-moz-linear-gradient(45deg,#d24949,#9e44c9);background:linear-gradient(45deg,#d24949,#9e44c9);position:absolute;top:34px;left:0;right:0;bottom:0;width:65%}
 #sidebar .LinkList .widget-content li{border-bottom:1px dotted #eee;display:block}
-#sidebar .LinkList .widget-content li a{color:#615f5f;display:block;padding:7px 0;margin-bottom:2px;text-decoration:none}
+#sidebar .LinkList .widget-content li a{color:#615f5f;font-size: 15px;display:block;padding:7px 0;margin-bottom:2px;text-decoration:none}
 #sidebar .LinkList .widget-content li a:hover{background:linear-gradient(to left,#454aa9,#5c5caf);transition:all .3s;color:#fff}
 #sidebar .LinkList .widget-content li a:before{content:'\f0c1';font-family:fontawesome;padding-left:7px;color:#00ff13;padding:0 0 0 10px;margin-right:11px}
 .footer .LinkList .widget-content li{display:block;float:right;margin-left:8px;padding:4px 25px;text-align:right}
